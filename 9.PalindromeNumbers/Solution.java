@@ -26,12 +26,7 @@ class Solution
                 {
                     return false;
                 }
-                //xx = xx.substring(1, xx.length()-1);
-          
             }
-            //System.out.println(xx);
             return false;
-
         }
-    
 }
